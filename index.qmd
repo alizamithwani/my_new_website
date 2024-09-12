@@ -1,0 +1,9 @@
+---
+title: "Welcome to my Website"
+---
+
+My name is Aliza Mithwani. I am an Economics Major and Mathematics & Statistics Minor at University of Toronto.
+
+I am starting off my 4th and, hopefully, final year. I am taking a bunch of statistics, economics, and elective courses. My course at the moment is ENT200, which is an Introduction to Entrepreneurship.
+
+This is my first time building a website in RStudio and this is pretty cool. Hope you enjoyed reading a little bit about me.
