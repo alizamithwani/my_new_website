@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website is part of my STA304 weekly assignment."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my Website",
+    "section": "",
+    "text": "My name is Aliza Mithwani. I am an Economics Major and Mathematics & Statistics Minor at University of Toronto.\nI am starting off my 4th and, hopefully, final year. I am taking a bunch of statistics, economics, and elective courses. My course at the moment is ENT200, which is an Introduction to Entrepreneurship.\nThis is my first time building a website in RStudio and this is pretty cool. Hope you enjoyed reading a little bit about me."
+  }
+]
